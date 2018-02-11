@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Ke Gu"
-  role = "Professor of Artificial Intelligence"
+  role = "Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "guke.doctor@gmail.com"
   address = "No.100, Pingleyuan, Chaoyang District, Beijing City, China"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  office_hours = ""
   phone = "+86-18310490075"
   skype = ""
   telegram = ""
