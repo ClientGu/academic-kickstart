@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Beijing University of Technology", url = "http://www.bjut.edu.cn/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "guke.doctor@gmail.com"
   address = "No.100, Pingleyuan, Chaoyang District, Beijing City, China"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
