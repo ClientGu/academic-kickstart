@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "lmsbjut@163.com"
+  email = "guke.doctor@gmail.com"
   address = "No.100, Pingleyuan, Chaoyang District, Beijing City, China"
   office_hours = ""
   phone = "+86-18310490075"
@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:guke.doctor@gmail.com"
 
   [[params.social]]
     icon = "twitter"
@@ -232,7 +232,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/ClientGu"
 
 
 # Navigation Links
