@@ -17,20 +17,29 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Professor, Faculty of Information Technology"
+  institution = "Beijing University of Technology, China"
+  year = "03/2017---Current"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = " Research Fellow, School of Computer Science and Engineering"
+  institution = "Nanyang Technological University, Singapore"
+  year = "02/2016---02/2017"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "PH.D., School of Electronic Information and Electrical Engineering"
+  institution = "Shanghai Jiao Tong University, China"
+  year = "09/2011---12/2015"
+
+[[education.courses]]
+  course = "M.S., School of Electronic Information and Electrical Engineering"
+  institution = "Shanghai Jiao Tong University, China"
+  year = "09/2009---09/2011"
+
+[[education.courses]]
+  course = "B.S., School of Electronic Information and Electrical Engineering"
+  institution = "Shanghai Jiao Tong University, China"
+  year = "08/2005---07/2009"
 +++
 
 # Biography
