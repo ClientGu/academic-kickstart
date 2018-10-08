@@ -7,6 +7,12 @@ date = "2016-04-20T00:00:00"
 # Order that this section will appear in.
 weight = 5
 
+# List your Work Experience.
+[[education.courses]]
+  course = "Professor, Faculty of Information Technology"
+  institution = "Beijing University of Technology, China"
+  year = "03/2017---Current"
+
 # List your academic interests.
 [interests]
   interests = [
