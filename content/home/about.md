@@ -8,7 +8,7 @@ date = "2016-04-20T00:00:00"
 weight = 5
 
 # List your Work Experience.
-[[education.courses]]
+[Experience]
   course = "Professor, Faculty of Information Technology"
   institution = "Beijing University of Technology, China"
   year = "03/2017---Current"
