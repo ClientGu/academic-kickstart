@@ -15,7 +15,7 @@ weight = 5
 
 # List your Research Award.
 [Award]
-  Award = [
+  Intrest = [
     "Best paper award in IEEE T-MM 2018",
     "First Place of Natural Science Award of CIE in 2017",
     "Three first-author ESI highly cited SCI papers",
