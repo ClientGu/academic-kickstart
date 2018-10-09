@@ -13,12 +13,15 @@ weight = 5
   institution = "Beijing University of Technology, China"
   year = "03/2017---Current"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+# List your Research Award.
+[Award]
+  Award = [
+    "Best paper award in IEEE T-MM 2018",
+    "First Place of Natural Science Award of CIE in 2017",
+    "Three first-author ESI highly cited SCI papers",
+    "Extraordinary Ph.D. thesis award from the Chinese Institute of Electronics (CIE) in 2016",
+    "Best student paper award in IEEE ICME 2016",
+    "Google scholar citation > 1800 & h-index = 23"
   ]
 
 # List your qualifications (such as academic degrees).
