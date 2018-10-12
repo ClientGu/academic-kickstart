@@ -1,18 +1,6 @@
 +++
-title = "2017Publications"
-date = "2018-10-12T00:00:00Z"
-math = false
-highlight = false
-
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = APA
-#   3 = MLA
-list_format = 3
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+title = "2017publication"  # Add a page title.
+date = 2017-01-01T00:00:00  # Add today's date.
+widgets = true  # Page type is a Widget Page.
+summary = ""  # Add a page description.
 +++
