@@ -1,6 +1,5 @@
 +++
-title = "2015
-Publications"
+title = "2015Publications"
 date = "2018-10-12T00:00:00Z"
 math = false
 highlight = false
